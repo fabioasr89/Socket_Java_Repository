@@ -1,7 +1,8 @@
 HELP.md
-ChatSingola/target/
+ChatSingola/chat-singola/target/
 !.mvn/wrapper/maven-wrapper.jar
 ChatSingola/.metadata
+ChatSingola/RemoteSystemsTempFiles/*
 ### STS ###
 .apt_generated
 .classpath
